@@ -10,7 +10,7 @@
 
             if (bankRekening.Storting(100))
             {
-                Console.WriteLine("storting gelukt");
+                Console.WriteLine("storting gelukt"); 
             }
             else
             {
